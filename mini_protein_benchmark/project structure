@@ -1,0 +1,20 @@
+mini-protein-benchmark/
+├── notebooks/
+│   ├── 01_generate_sequences_ESM2.ipynb
+│   ├── 02_generate_sequences_ProtT5.ipynb
+│   ├── 03_generate_sequences_ProteinMPNN.ipynb
+│   ├── 04_structure_prediction_ColabFold.ipynb
+│   └── 05_analysis.ipynb
+├── data/
+│   ├── generated_sequences/
+│   ├── predicted_structures/
+│   └── metrics/
+├── scripts/
+│   ├── run_colabfold_batch.py
+│   └── compute_metrics.py
+├── results/
+│   ├── summary_table.csv
+│   └── plots/
+├── README.md
+├── environment.yml
+└── LICENSE
