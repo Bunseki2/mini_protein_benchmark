@@ -1,0 +1,15 @@
+name: protein-benchmark
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.10
+  - biopython
+  - transformers
+  - pytorch
+  - pandas
+  - matplotlib
+  - seaborn
+  - jupyter
+  - scikit-learn
+  - mmseqs2
