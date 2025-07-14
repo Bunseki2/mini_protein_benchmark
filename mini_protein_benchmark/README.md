@@ -33,4 +33,4 @@ conda activate protein-benchmark
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/mini_protein_benchmark/blob/main/notebooks/01_Colab_Template.ipynb)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Bunseki2/mini_protein_benchmark/blob/main/mini_protein_benchmark/notebooks/01_generate_sequences_ESM2.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Bunseki2/mini_protein_benchmark/blob/main/notebooks/01_generate_sequences_ESM2.ipyn)
