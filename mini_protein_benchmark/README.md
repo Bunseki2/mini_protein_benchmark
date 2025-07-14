@@ -26,11 +26,13 @@ We compare generated sequences in terms of:
 - `data/`: Stores sequences, structures, and metrics
 - `results/`: Final summary plots and tables
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/mini_protein_benchmark/blob/main/notebooks/01_Colab_Template.ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/mini_protein_benchmark/blob/main/notebooks/01_generate_sequences_ESM2.ipynb)
+
+
 ## 🚀 How to Run
 ```bash
 conda env create -f environment.yml
 conda activate protein-benchmark
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/mini_protein_benchmark/blob/main/notebooks/01_Colab_Template.ipynb)
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/mini_protein_benchmark/blob/main/notebooks/01_generate_sequences_ESM2.ipynb)
