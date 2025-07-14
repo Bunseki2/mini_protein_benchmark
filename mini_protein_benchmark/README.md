@@ -30,3 +30,5 @@ We compare generated sequences in terms of:
 ```bash
 conda env create -f environment.yml
 conda activate protein-benchmark
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/mini_protein_benchmark/blob/main/notebooks/01_Colab_Template.ipynb)
